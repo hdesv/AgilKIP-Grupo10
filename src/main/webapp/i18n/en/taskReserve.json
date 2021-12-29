@@ -1,0 +1,27 @@
+{
+  "bikeApp": {
+    "taskReserve": {
+      "home": {
+        "title": "Task Reserves",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Task Reserve",
+        "createOrEditLabel": "Create or edit a Task Reserve",
+        "notFound": "No Task Reserves found"
+      },
+      "created": "A new Task Reserve is created with identifier {{ param }}",
+      "updated": "A Task Reserve is updated with identifier {{ param }}",
+      "deleted": "A Task Reserve is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Task Reserve {{ id }}?"
+      },
+      "detail": {
+        "title": "Task Reserve"
+      },
+      "id": "ID",
+      "name": "Name",
+      "startDate": "Start Date",
+      "endDate": "End Date",
+      "confirmReserve": "Confirm Reserve"
+    }
+  }
+}

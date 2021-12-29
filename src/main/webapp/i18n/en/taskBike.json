@@ -1,0 +1,28 @@
+{
+  "bikeApp": {
+    "taskBike": {
+      "home": {
+        "title": "Task Bikes",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Task Bike",
+        "createOrEditLabel": "Create or edit a Task Bike",
+        "notFound": "No Task Bikes found"
+      },
+      "created": "A new Task Bike is created with identifier {{ param }}",
+      "updated": "A Task Bike is updated with identifier {{ param }}",
+      "deleted": "A Task Bike is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Task Bike {{ id }}?"
+      },
+      "detail": {
+        "title": "Task Bike"
+      },
+      "id": "ID",
+      "experience": "Experience",
+      "nameClient": "Name Client",
+      "startDate": "Start Date",
+      "endDate": "End Date",
+      "bikeNumber": "Bike Number"
+    }
+  }
+}

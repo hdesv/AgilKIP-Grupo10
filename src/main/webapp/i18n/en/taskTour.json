@@ -1,0 +1,29 @@
+{
+  "bikeApp": {
+    "taskTour": {
+      "home": {
+        "title": "Task Tours",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Task Tour",
+        "createOrEditLabel": "Create or edit a Task Tour",
+        "notFound": "No Task Tours found"
+      },
+      "created": "A new Task Tour is created with identifier {{ param }}",
+      "updated": "A Task Tour is updated with identifier {{ param }}",
+      "deleted": "A Task Tour is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Task Tour {{ id }}?"
+      },
+      "detail": {
+        "title": "Task Tour"
+      },
+      "id": "ID",
+      "experience": "Experience",
+      "nameClient": "Name Client",
+      "startDate": "Start Date",
+      "endDate": "End Date",
+      "tourNumber": "Tour Number",
+      "tourCity": "Tour City"
+    }
+  }
+}

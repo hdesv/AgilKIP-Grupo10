@@ -1,0 +1,11 @@
+{
+  "bikeApp": {
+    "enumeration": {
+      "null": "",
+      "Liboa": "Liboa",
+      "Porto": "Porto",
+      "Guimarães": "Guimarães",
+      "Coimbra": "Coimbra"
+    }
+  }
+}

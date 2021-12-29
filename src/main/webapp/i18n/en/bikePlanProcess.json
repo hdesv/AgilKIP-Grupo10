@@ -1,0 +1,35 @@
+{
+  "bikeApp": {
+    "bikePlanProcess": {
+      "home": {
+        "title": "Bike Plan Processes",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Bike Plan Process",
+        "createOrEditLabel": "Create or edit a Bike Plan Process",
+        "notFound": "No Bike Plan Processes found"
+      },
+      "created": "A new Bike Plan Process is created with identifier {{ param }}",
+      "updated": "A Bike Plan Process is updated with identifier {{ param }}",
+      "deleted": "A Bike Plan Process is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Bike Plan Process {{ id }}?"
+      },
+      "detail": {
+        "title": "Bike Plan Process"
+      },
+      "id": "ID",
+      "experience": "Experience",
+      "nameClient": "Name Client",
+      "phoneNumber": "Phone Number",
+      "userEmail": "User Email",
+      "startDate": "Start Date",
+      "endDate": "End Date",
+      "userName": "User Name",
+      "bikeNumber": "Bike Number",
+      "tourNumber": "Tour Number",
+      "tourCity": "Tour City",
+      "clienteNumber": "Cliente Number",
+      "wantTour": "Want Tour"
+    }
+  }
+}

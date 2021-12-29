@@ -1,0 +1,27 @@
+{
+  "bikeApp": {
+    "bikePlan": {
+      "home": {
+        "title": "Bike Plans",
+        "refreshListLabel": "Refresh list",
+        "notFound": "No Bike Plans found"
+      },
+      "detail": {
+        "title": "Bike Plan"
+      },
+      "id": "ID",
+      "experience": "Experience",
+      "nameClient": "Name Client",
+      "phoneNumber": "Phone Number",
+      "userName": "User Name",
+      "userEmail": "User Email",
+      "startDate": "Start Date",
+      "endDate": "End Date",
+      "bikeNumber": "Bike Number",
+      "tourNumber": "Tour Number",
+      "tourCity": "Tour City",
+      "clienteNumber": "Cliente Number",
+      "wantTour": "Want Tour"
+    }
+  }
+}

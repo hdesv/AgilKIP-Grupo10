@@ -1,0 +1,63 @@
+{
+  "fields": [
+    {
+      "fieldName": "experience",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "nameClient",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "phoneNumber",
+      "fieldType": "Integer"
+    },
+    {
+      "fieldName": "userName",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "userEmail",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "startDate",
+      "fieldType": "LocalDate"
+    },
+    {
+      "fieldName": "endDate",
+      "fieldType": "LocalDate"
+    },
+    {
+      "fieldName": "bikeNumber",
+      "fieldType": "Integer"
+    },
+    {
+      "fieldName": "tourNumber",
+      "fieldType": "Integer"
+    },
+    {
+      "fieldName": "tourCity",
+      "fieldType": "tourCity",
+      "fieldValues": "Lisboa,Porto,Guimarães,Coimbra"
+    },
+    {
+      "fieldName": "clienteNumber",
+      "fieldType": "Integer"
+    },
+    {
+      "fieldName": "wantTour",
+      "fieldType": "String"
+    }
+  ],
+  "relationships": [],
+  "entityType": "domain",
+  "service": "serviceClass",
+  "dto": "mapstruct",
+  "jpaMetamodelFiltering": false,
+  "readOnly": true,
+  "pagination": "no",
+  "name": "BikePlan",
+  "changelogDate": "20210401000001",
+  "skipFakeData": true
+}

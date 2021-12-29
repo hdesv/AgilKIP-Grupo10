@@ -1,0 +1,9 @@
+{
+  "bikeApp": {
+    "TipoWantTour": {
+      "null": "",
+      "Sim": "Sim",
+      "Não": "Não"
+    }
+  }
+}

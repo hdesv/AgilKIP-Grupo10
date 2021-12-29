@@ -1,0 +1,30 @@
+{
+  "bikeApp": {
+    "bikePlanStartForm": {
+      "home": {
+        "title": "Bike Plan Start Forms",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Bike Plan Start Form",
+        "createOrEditLabel": "Create or edit a Bike Plan Start Form",
+        "notFound": "No Bike Plan Start Forms found"
+      },
+      "created": "A new Bike Plan Start Form is created with identifier {{ param }}",
+      "updated": "A Bike Plan Start Form is updated with identifier {{ param }}",
+      "deleted": "A Bike Plan Start Form is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Bike Plan Start Form {{ id }}?"
+      },
+      "detail": {
+        "title": "Bike Plan Start Form"
+      },
+      "id": "ID",
+      "experience": "Experience",
+      "nameClient": "Name Client",
+      "phoneNumber": "Phone Number",
+      "userEmail": "User Email",
+      "startDate": "Start Date",
+      "endDate": "End Date",
+      "wantTour": "Want Tour"
+    }
+  }
+}

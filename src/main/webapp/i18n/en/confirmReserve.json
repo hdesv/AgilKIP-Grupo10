@@ -1,0 +1,9 @@
+{
+  "bikeApp": {
+    "confirmReserve": {
+      "null": "",
+      "Yes": "Yes",
+      "No": "No"
+    }
+  }
+}

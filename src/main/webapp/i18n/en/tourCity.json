@@ -1,0 +1,11 @@
+{
+  "bikeApp": {
+    "tourCity": {
+      "null": "",
+      "Lisboa": "Lisboa",
+      "Porto": "Porto",
+      "Guimarães": "Guimarães",
+      "Coimbra": "Coimbra"
+    }
+  }
+}

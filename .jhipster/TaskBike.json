@@ -1,0 +1,42 @@
+{
+  "fields": [
+    {
+      "fieldName": "experience",
+      "fieldType": "String",
+      "fieldReadOnly": true
+    },
+    {
+      "fieldName": "nameClient",
+      "fieldType": "String",
+      "fieldReadOnly": true
+    },
+    {
+      "fieldName": "startDate",
+      "fieldType": "LocalDate",
+      "fieldReadOnly": true
+    },
+    {
+      "fieldName": "endDate",
+      "fieldType": "LocalDate",
+      "fieldReadOnly": true
+    },
+    {
+      "fieldName": "bikeNumber",
+      "fieldType": "Integer"
+    }
+  ],
+  "relationships": [],
+  "entityType": "user-task-form",
+  "processBpmnId": "BikePlanProcess",
+  "processEntityName": "BikePlanProcess",
+  "taskBpmnId": "TaskBike",
+  "domainEntityName": "BikePlan",
+  "service": "serviceClass",
+  "dto": "mapstruct",
+  "jpaMetamodelFiltering": false,
+  "readOnly": false,
+  "pagination": "no",
+  "skipFakeData": true,
+  "name": "TaskBike",
+  "changelogDate": "20210401000003"
+}

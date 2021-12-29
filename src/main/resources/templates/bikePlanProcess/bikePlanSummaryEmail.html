@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+  <head>
+    <title>Bike Plan Summary</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  </head>
+  <body>
+    <p>Dear <span th:text="${bikePlan.userName}">userName</span></p>
+    <p>Here is a summary of your experience <b th:text="${bikePlan.Experience}">Experience</b></p>
+    <ul>
+        <li><b>Start</b>: <span th:text="${bikePlan.startDate }"></span></li>
+        <li><b>End</b>: <span th:text="${bikelPlan.endDate }"></span></li>
+        <li><b>User</b>: <span th:text="${bikePlan.userName}"></span> / <span th:text="${bikePlan.clienteNumber}"></span></li>
+        <li><b>Bike</b>: <span th:text="${bikePlan.bikeNumber}"></span></li>
+        <li><b>Tour</b>: <span th:text="${bikePlan.tourCity}"></span> / <span th:text="${bikePlan.tourNumber}"></span></li>
+    </ul>
+    <p>
+      Regards,
+      <br />
+      <em>AgileKie, Team 10</em>
+    </p>
+  </body>
+</html>

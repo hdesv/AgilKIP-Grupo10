@@ -1,0 +1,30 @@
+{
+  "bikeApp": {
+    "taskUser": {
+      "home": {
+        "title": "Task Users",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Task User",
+        "createOrEditLabel": "Create or edit a Task User",
+        "notFound": "No Task Users found"
+      },
+      "created": "A new Task User is created with identifier {{ param }}",
+      "updated": "A Task User is updated with identifier {{ param }}",
+      "deleted": "A Task User is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Task User {{ id }}?"
+      },
+      "detail": {
+        "title": "Task User"
+      },
+      "id": "ID",
+      "experience": "Experience",
+      "nameClient": "Name Client",
+      "phoneNumber": "Phone Number",
+      "startDate": "Start Date",
+      "endDate": "End Date",
+      "userName": "User Name",
+      "clienteNumber": "Cliente Number"
+    }
+  }
+}
